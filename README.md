@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
 <div align="center">
-  <a href="https://github.com/andreinaoliveira">
+  <a href="https://github.com/vitorkamenschek">
     <img align="center" src="Welcome.png" width="500">
   </a>
 </div>
