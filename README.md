@@ -15,7 +15,7 @@
 
 ## ⭐️ Sobre mim
 
-Cursando <b>Analise e Desenvolvimento de Sistema</b> na Universidade Paulista e atualmente quero consolidar os meus conhecimentos em um <b>Estágio de Tecnologia.</b> Por aqui gosto de compartilhar minha jornada de aprendizado. Atualmente estou estudando React e venho trazer repositórios sobre.
+Cursando <b>Analise e Desenvolvimento de Sistema</b> na Universidade Paulista e atualmente <b>Estagiando na área de Tecnologia.</b> Por aqui gosto de compartilhar minha jornada de aprendizado.
 
 
 
