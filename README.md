@@ -19,10 +19,3 @@ Cursando <b>Analise e Desenvolvimento de Sistema</b> na Universidade Paulista e 
 
 
 
-## ⭐️ Hard Skills
-<!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
-<div align="center">
-  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <br>
-</div>
-
