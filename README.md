@@ -1,9 +1,9 @@
 # 👩🏻‍💻 Vitor Kamenschek
 
-**`Desenvolvedor de Scripts e Back-End para Servidores de Jogos`**
+**`Full Stack Developer | Automação | Integração de APIs | DevOps`**
 
 
-Olá! Sou o Vitor, estudante de Análise e Desenvolvimento de Sistemas, com 18 anos e uma grande paixão por tecnologia e programação. Atualmente, atuo como estagiário na área de TI, desenvolvendo scripts para servidores de jogos e aprimorando minhas habilidades em automação e desenvolvimento de sistemas. Meu foco é sempre aprender algo novo, explorar diferentes tecnologias e compartilhar meus projetos. Aqui no GitHub, você encontrará alguns dos meus trabalhos e experiências, onde aplico minha criatividade e dedicação para entregar soluções funcionais e eficientes.
+Olá! Sou o Vitor, estudante de Análise e Desenvolvimento de Sistemas com 19 anos, apaixonado por tecnologia e programação. Meu foco é criar soluções digitais escaláveis, eficientes e inovadoras, explorando sempre novas tecnologias. Aqui no GitHub, compartilho meus projetos, scripts e experimentos, aplicando criatividade e dedicação para entregar soluções funcionais.
 
 ---
 
